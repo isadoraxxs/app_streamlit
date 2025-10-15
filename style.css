@@ -1,0 +1,41 @@
+
+#busca-por-anotacoes {
+  color: rgb(22, 148, 194);
+  font-family: "Arial"
+}
+
+#crie-uma-nova-anotacao {
+  color: rgb(22, 148, 194);
+  font-family: "Arial"
+}
+
+#pagina-inicial {
+  color: rgb(22, 148, 194);
+  font-family: "Arial"
+}
+
+.stButton > button {
+    background-color: rgb(15, 165, 230);
+    color: rgb(230, 234, 237);
+    border: none;
+    padding: 10px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: "Arial"
+}
+
+.stButton > button:hover {
+    background-color: rgb(97, 181, 218);
+    color: rgb(230, 234, 237);
+}
+
+#conteudo {
+  color: rgb(4, 47, 133);
+  font-family: "Arial";
+  text-align: center;
+}
+
+#comecando-com-o-smart-notes{
+  color: rgb(22, 148, 194);
+  font-family: "Arial"
+}
